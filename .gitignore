@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Database lokal
+db.sqlite3
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# File rahasia (API key, dll.)
+.env
+
+# File upload lampiran
+media/
+
+# Pengaturan editor
+.vscode/
